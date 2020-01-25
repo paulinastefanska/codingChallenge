@@ -1,5 +1,7 @@
 # users
 
+### You can run the app inside a docker container: https://hub.docker.com/r/paulinastef/users
+
 ## Project setup
 ```
 yarn install
